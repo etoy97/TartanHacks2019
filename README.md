@@ -18,7 +18,7 @@ Necessary libaries for Tinder Attractiveness Correcter:
 	pip install keras
 
 
-To use the extension:
+To use the extension (works only on "developer.chrome.com/*" websites):
 	
 	Download the folder
 	
