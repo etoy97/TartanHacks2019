@@ -1,8 +1,22 @@
 # TartanHacks2019
 
-pip install numpy
+Using python 3.5
 
-pip install opencv-python
 
-pip install keras
+Necessary libraries for Shop Assister:
+	
+	pip install geocoder
+
+
+
+Necessary libaries for Tinder Attractiveness Correcter:
+
+	pip install numpy	
+
+	pip install opencv-python
+
+	pip install keras
+
+
+
 
