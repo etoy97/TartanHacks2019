@@ -3,9 +3,15 @@
 Using python 3.5
 
 
+https://github.com/mrooney/mintapi
+
 Necessary libraries for Shop Assister:
 	
 	pip install geocoder
+
+	pip install mintapi
+
+	pip install keyring
 
 
 
